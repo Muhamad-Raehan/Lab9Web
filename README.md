@@ -1,8 +1,14 @@
 # Lab9Web
 ## Header.php
-<img width="960" alt="1" src="https://github.com/Muhamad-Raehan/Lab9Web/assets/116246238/4a259544-8b3e-49ea-9189-e2383fad5d41">
+<img width="960" alt="1" src="https://github.com/Muhamad-Raehan/Lab9Web/assets/116246238/6d15d698-0713-4182-9900-e0564bb183bd">
 
 <img width="960" alt="hasil 1" src="https://github.com/Muhamad-Raehan/Lab9Web/assets/116246238/63d3b893-0b99-4437-a392-3bf3664864fa">
+
+
+## Footer.php
+<img width="766" alt="2" src="https://github.com/Muhamad-Raehan/Lab9Web/assets/116246238/84ffbde6-ec93-4f1b-9a0a-03c6e687a5a6">
+
+<img width="960" alt="hasil 1   2" src="https://github.com/Muhamad-Raehan/Lab9Web/assets/116246238/cb64f8aa-ff4a-4795-8a3b-e5c6814c6413">
 
 
 ## Home.php
